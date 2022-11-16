@@ -21,3 +21,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Licence
 [MIT]()
+
+
+
+![Kodluyoruz](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fpatika.dev%2F&psig=AOvVaw1gkB-pK487G0xhKqzudfeg&ust=1668696598593000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIib3rH5svsCFQAAAAAdAAAAABAE)
